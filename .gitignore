@@ -1,7 +1,2 @@
-!assets/includes/*
-!assets/img/*
-!assets/fonts/*
-!assets/styles/components/*
-
 /node_modules/
 /build/
